@@ -1,0 +1,1 @@
+<a target="_blank" href="https://api.whatsapp.com/send?phone=+916355461797&amp;text=Hello%20Akash%20Sir%20%20I%20Am%20Looking%20For%20"><img src="https://www.akashsir.com/my-images/about/whatsapp1.png" class="pulse" style="height: auto; width: 150px;background:none; position: fixed;border-radius: 35px; bottom: 0; margin: 0 0 10px 10px; z-index: 9999;"></a>
